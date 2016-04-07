@@ -1,2 +1,2 @@
-This is the repository for the first alpha-blog app of the Completed Ruby on
+This is the repository for the first alpha-blog app of the Complete Ruby on
 Rails Developer Course
